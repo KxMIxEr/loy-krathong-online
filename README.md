@@ -14,5 +14,5 @@ npm run deploy
 ```
 
 ## ลิงก์ส่งงาน
-- **เว็บไซต์ (Live Demo):** https://KxMIxEr.github.io/loy-krathong-online/
+- **เว็บไซต์ (Live Demo):** https://kxmixer.github.io/loy-krathong-online/
 - **GitHub Repository:** https://github.com/KxMIxEr/loy-krathong-online
